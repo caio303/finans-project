@@ -1,16 +1,25 @@
-@media(max-width: 936px){
+@media(max-width: 1000px){
 	#mulher{
 		display: none!important;
 	}
 }
-body{
-	height: 100%;
+@media(max-width: 544px){
+	#botao{
+		width: 85%;
+	}
+}
+body, html{
+	height: 100%!important;
+	width: 100%!important;
+	margin: 0px!important;
+	font-size: 1rem!important;
+}
+#texto{
 	width: 100%;
-	margin: 0px;
-	font-size: 1rem;
 }
 #container-o{
 	background: #ffc107;
+	width: 100%;
 }
 #conteudo{
 	width: 76%;
