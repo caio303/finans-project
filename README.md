@@ -5,13 +5,13 @@
   <img width="20%" alt="Cellphone Size Responsivity" src="https://github.com/caio303/finans-project/blob/master/imagens/finans-mob.png">
 </div
 
-- [x] HTML Structure
+[x] HTML Structure
 
-- [x] CSS Style Features
+[x] CSS Style Features
 
-- [x] Bootstrap Features
+[x] Bootstrap Features
 
-- [x] Responsivity
+[x] Responsivity
 
 Finans is a fictional project of an e-bank commertial website that, for now, has only the Frontend part built.
 
