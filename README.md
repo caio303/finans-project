@@ -1,12 +1,9 @@
 # Project Finans :moneybag:
 
-[X] - HTML Structure
-
-[X] - CSS Style Features
-
-[X] - Bootstrap Features
-
-[X] - Responsivity
+- [x] HTML Structure
+- [x] CSS Style Features
+- [x] Bootstrap Features
+- [x] Responsivity
 
 Finans is a fictional project of an e-bank commertial website that, for now, has only the Frontend part built.
 
