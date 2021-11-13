@@ -5,8 +5,6 @@
   <img width="20%" alt="Cellphone Size Responsivity" src="https://github.com/caio303/finans-project/blob/master/imagens/finans-mob.png">
 </div
 
-  ## &nbsp;
-
 - [x] HTML Structure
 
 - [x] CSS Style Features
